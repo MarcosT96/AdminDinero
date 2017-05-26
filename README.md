@@ -5,9 +5,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/Microsoft/vscode/master.svg)](https://coveralls.io/github/Microsoft/vscode?branch=master)
 [![Gitter](https://img.shields.io/badge/chat-on%20gitter-blue.svg)](https://gitter.im/Microsoft/vscode)
 
-AdminDinero es un nuevo sistema de herramientas que combinan simplemente a 
-a code editor with what developers need for their core edit-build-debug cycle. Code
-provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
+AdminDinero es una aplicación para realizar un seguimiento diario de su dinero. Puede mostrarle un informe de ingresos o gastos monetarios. Vea cuánto usted ha ganado y gastado totalmente y otras funciones.
 
 AdminDinero se actualizara mensualmente con nuevas carateristicas y soluciones de errores. Puedes descargar el script de la herramienta web en [GitHub](https://github.com/MarcosT96/AdminDinero/releases).
 
